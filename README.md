@@ -25,8 +25,8 @@ N lines with the category of each one of the n trades.
 
 Sample input
 
-12/11/2020
-4
+12/11/2020 <br />
+4 <br />
 2000000 Private 12/29/2025 <br />
 400000 Public 07/01/2020 <br />
 5000000 Public 01/02/2024 <br />
