@@ -24,6 +24,7 @@ Output
 N lines with the category of each one of the n trades.
 
 Sample input
+
 12/11/2020
 4
 2000000 Private 12/29/2025
@@ -32,6 +33,7 @@ Sample input
 3000000 Public 10/26/2023
 
 Sample output
+
 HIGHRISK
 EXPIRED
 MEDIUMRISK
